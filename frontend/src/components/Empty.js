@@ -1,7 +1,9 @@
 import React,{useState} from 'react'
 import {ReactComponent as EmptyS} from "./Empty.svg"
 import { Link } from "react-router-dom";
-import { RiArrowRightSLine  , TiArrowRight,BsArrowBarRight} from "react-icons/all";
+import {BsArrowBarRight} from "react-icons/bs";
+import { TiArrowRight } from "react-icons/ti";
+import { RiArrowRightSLine } from "react-icons/ri";
 
 
 const Empty = () => {
